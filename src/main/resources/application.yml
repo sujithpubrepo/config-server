@@ -8,5 +8,5 @@ spring:
           uri: https://github.com/sujithkumarmp/config-server-properties.git
 
 server:
-  port: 8071
+  port: ${CONFIGSERVER_PORT}
 
