@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/sujithkumarmp/config-server-properties.git
+          uri: https://github.com/sujithpubrepo/config-server-properties.git
 
 server:
   port: ${CONFIGSERVER_PORT}
